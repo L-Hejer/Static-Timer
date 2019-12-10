@@ -1,0 +1,16 @@
+.clock{
+  display: flex;
+  justify-content: center;
+}
+.hour, .minute, .second{
+  text-align: center;
+}
+h1{
+  font-size: 60px;
+  font-weight: 500;
+}
+p{
+  color: lightslategray;
+  font-size: small;
+
+}
